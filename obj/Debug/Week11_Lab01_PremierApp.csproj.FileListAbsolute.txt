@@ -1,0 +1,10 @@
+C:\Users\Safe2Q\Downloads\COL - SEM - A\Courses - A\Semester A\COMP 123 - TBD - Programming II\Projects\Week11_Lab01_PremierApp\bin\Debug\Week11_Lab01_PremierApp.exe.config
+C:\Users\Safe2Q\Downloads\COL - SEM - A\Courses - A\Semester A\COMP 123 - TBD - Programming II\Projects\Week11_Lab01_PremierApp\bin\Debug\Week11_Lab01_PremierApp.exe
+C:\Users\Safe2Q\Downloads\COL - SEM - A\Courses - A\Semester A\COMP 123 - TBD - Programming II\Projects\Week11_Lab01_PremierApp\bin\Debug\Week11_Lab01_PremierApp.pdb
+C:\Users\Safe2Q\Downloads\COL - SEM - A\Courses - A\Semester A\COMP 123 - TBD - Programming II\Projects\Week11_Lab01_PremierApp\obj\Debug\Week11_Lab01_PremierApp.csproj.AssemblyReference.cache
+C:\Users\Safe2Q\Downloads\COL - SEM - A\Courses - A\Semester A\COMP 123 - TBD - Programming II\Projects\Week11_Lab01_PremierApp\obj\Debug\Week11_Lab01_PremierApp.PremierApp.resources
+C:\Users\Safe2Q\Downloads\COL - SEM - A\Courses - A\Semester A\COMP 123 - TBD - Programming II\Projects\Week11_Lab01_PremierApp\obj\Debug\Week11_Lab01_PremierApp.Properties.Resources.resources
+C:\Users\Safe2Q\Downloads\COL - SEM - A\Courses - A\Semester A\COMP 123 - TBD - Programming II\Projects\Week11_Lab01_PremierApp\obj\Debug\Week11_Lab01_PremierApp.csproj.GenerateResource.cache
+C:\Users\Safe2Q\Downloads\COL - SEM - A\Courses - A\Semester A\COMP 123 - TBD - Programming II\Projects\Week11_Lab01_PremierApp\obj\Debug\Week11_Lab01_PremierApp.csproj.CoreCompileInputs.cache
+C:\Users\Safe2Q\Downloads\COL - SEM - A\Courses - A\Semester A\COMP 123 - TBD - Programming II\Projects\Week11_Lab01_PremierApp\obj\Debug\Week11_Lab01_PremierApp.exe
+C:\Users\Safe2Q\Downloads\COL - SEM - A\Courses - A\Semester A\COMP 123 - TBD - Programming II\Projects\Week11_Lab01_PremierApp\obj\Debug\Week11_Lab01_PremierApp.pdb
